@@ -6,7 +6,6 @@ import after.utils.Point;
 public class BirdAction {
 
 	private double gravity;
-	private double slowdown = 0.5;
 	
 	public BirdAction(double gravity) {
 		this.gravity = gravity;
